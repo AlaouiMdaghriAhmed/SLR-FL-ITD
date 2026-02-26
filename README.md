@@ -58,29 +58,28 @@ This is the definitive corpus analyzed in the publication.
 
 This directory contains the visual artifacts used in the article.
 
-### 📊 graph/article_per_source/
-
-Contains graphs illustrating:
+### 📊 graph/article_per_source.png
 
 - Number of articles retrieved per database  
 - Distribution of initial search results across sources  
 
-These figures support transparency in search strategy reporting.
 
 ![Articles per Source](graph/article_per_source.png)
 
 ---
 
-### 📊 graph/retained_per_source/
+### 📊 graph/retained_per_source.png
 
-Contains graphs illustrating:
 
 - Number of retained studies per database  
 - Impact of screening and eligibility filtering  
 
-These figures provide insight into database contribution and filtering rigor.
-
 ![Retained Articles per Source](graph/retained_per_source.png)
+
+---
+### 📊 graph/prisma_diag.png
+
+![PRISMA Flow Diagram](graph/prisma_diag.png)
 
 ---
 
