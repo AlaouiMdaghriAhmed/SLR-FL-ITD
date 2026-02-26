@@ -69,7 +69,6 @@ These figures support transparency in search strategy reporting.
 
 ![Articles per Source](graph/article_per_source.png)
 
-
 ---
 
 ### 📊 graph/retained_per_source/
@@ -80,6 +79,8 @@ Contains graphs illustrating:
 - Impact of screening and eligibility filtering  
 
 These figures provide insight into database contribution and filtering rigor.
+
+![Retained Articles per Source](graph/retained_per_source.png)
 
 ---
 
