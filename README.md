@@ -64,7 +64,7 @@ This directory contains the visual artifacts used in the article.
 - Distribution of initial search results across sources  
 
 
-![Articles per Source](graph/article_per_source.png)
+![Articles per Source](graph/article_per_source1.png)
 
 ---
 
