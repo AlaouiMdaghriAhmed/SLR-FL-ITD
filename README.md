@@ -67,7 +67,7 @@ Contains graphs illustrating:
 
 These figures support transparency in search strategy reporting.
 
-![Articles per Source](graph/article_per_source/articles_per_source.png)
+![Articles per Source](graph/article_per_source.png)
 
 
 ---
